@@ -38,15 +38,15 @@ A console-based C++ application that integrates a secure user authentication sys
 
 ## Libraries Used
 
-- <iostream>
-- <unordered_map>
-- <vector>
-- <stack>
-- <queue>
-- <string>
-- <algorithm>
-- <ctime>
-- <cctype>
+- 'iostream'
+- '<unordered_map>'
+- 'vector'
+- 'stack'
+- 'queue'
+- 'string'
+- 'algorithm'
+- 'ctime'
+- 'cctype'
 
 ## Project Structure
 
@@ -54,9 +54,6 @@ bash
 AIChatbot.cpp
 Project_Final_Report_AIChatbot.docx
 README.md
-
-
----
 
 ## How to Run
 
